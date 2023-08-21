@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/md/Desktop/next level/prisma/university-management-core-service-starter/logs/winston/successes/.0df3242a46f9e3346440a6bfeec30b4766276250-audit.json",
+    "files": [
+        {
+            "date": 1692629502502,
+            "name": "/home/md/Desktop/next level/prisma/university-management-core-service-starter/logs/winston/successes/phu-2023-21-08-20-success.log",
+            "hash": "0d6f73dac909db5b0d3e177966b6ccf98041f928a5977c8430ad3c8f45dfc83c"
+        }
+    ],
+    "hashType": "sha256"
+}
